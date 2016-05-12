@@ -1,0 +1,24 @@
+/* Message of alert that shows up when no user was found for the login provided */
+"Check the login spelling" = "Vérifiez l'orthographe du login";
+
+/* Title of alert that shows up when user presses the search button without providing a login */
+"Empty login field" = "Login champ vide";
+
+/* Label that is set when user location is unknown */
+"Not Available" = "Indisponible";
+
+/* Confirm button text on alerts */
+"Ok" = "Ok";
+
+/* Message of alert that shows up when user presses the search button without providing a login */
+"Please provide the login" = "Fournir le login s'il vous plaît";
+
+/* Message of alert that shows up when an error while fetching the use occurs */
+"Try again" = "Réessayer";
+
+/* Title of alert that shows up when an error while fetching the use occurs */
+"User fetching error: %@" = "Erreur de récupération d'utilisateur: %@";
+
+/* Title of alert that shows up when no user was found for the login provided */
+"User not found" = "Utilisateur non trouvé";
+

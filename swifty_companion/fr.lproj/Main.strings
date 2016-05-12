@@ -1,0 +1,81 @@
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "1Kn-PU-iyI"; */
+"1Kn-PU-iyI.title" = "Profil";
+
+/* Class = "UINavigationItem"; title = "Welcome"; ObjectID = "2Mu-DB-NAI"; */
+"2Mu-DB-NAI.title" = "Bienvenue";
+
+/* Class = "UITabBarItem"; title = "Projects"; ObjectID = "3qo-eX-KuP"; */
+"3qo-eX-KuP.title" = "Projets";
+
+/* Class = "UITabBarItem"; title = "Skills"; ObjectID = "6bc-8b-Ocz"; */
+"6bc-8b-Ocz.title" = "Compétences";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "9ZT-EH-olV"; */
+"9ZT-EH-olV.text" = "12";
+
+/* Class = "UILabel"; text = "125"; ObjectID = "D4O-cD-lFI"; */
+"D4O-cD-lFI.text" = "125";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "DEz-hw-Jrf"; */
+"DEz-hw-Jrf.text" = "Prénom";
+
+/* Class = "UILabel"; text = "unknown"; ObjectID = "F4U-B6-D6b"; */
+"F4U-B6-D6b.text" = "inconnu";
+
+/* Class = "UILabel"; text = "unknown"; ObjectID = "ItC-dX-SHu"; */
+"ItC-dX-SHu.text" = "inconnu";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "JWX-tZ-nL2"; */
+"JWX-tZ-nL2.text" = "Emplacement:";
+
+/* Class = "UILabel"; text = "Level: "; ObjectID = "KFt-f4-Hqk"; */
+"KFt-f4-Hqk.text" = "Niveau:";
+
+/* Class = "UIButton"; normalTitle = "Show Profile"; ObjectID = "NyF-EE-saX"; */
+"NyF-EE-saX.normalTitle" = "Afficher le Profil";
+
+/* Class = "UILabel"; text = "Level:"; ObjectID = "RPj-u6-7Qu"; */
+"RPj-u6-7Qu.text" = "Niveau:";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "SOm-Qf-1Z5"; */
+"SOm-Qf-1Z5.title" = "Profil";
+
+/* Class = "UILabel"; text = "unknown"; ObjectID = "VX8-16-45X"; */
+"VX8-16-45X.text" = "inconnu";
+
+/* Class = "UILabel"; text = "unknown"; ObjectID = "XMc-rT-7D1"; */
+"XMc-rT-7D1.text" = "inconnu";
+
+/* Class = "UILabel"; text = "Login:"; ObjectID = "XzS-cM-6D1"; */
+"XzS-cM-6D1.text" = "Login:";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "ZEX-DI-rR6"; */
+"ZEX-DI-rR6.text" = "Prénom";
+
+/* Class = "UILabel"; text = "Unknown"; ObjectID = "ZeU-Ky-thb"; */
+"ZeU-Ky-thb.text" = "Inconnu";
+
+/* Class = "UITextField"; placeholder = "Login"; ObjectID = "cu5-oR-NxE"; */
+"cu5-oR-NxE.placeholder" = "Login";
+
+/* Class = "UITabBarItem"; title = "General"; ObjectID = "h8N-1e-ejX"; */
+"h8N-1e-ejX.title" = "General";
+
+/* Class = "UILabel"; text = "Mark:"; ObjectID = "js8-8C-Sab"; */
+"js8-8C-Sab.text" = "Note:";
+
+/* Class = "UILabel"; text = "unknown"; ObjectID = "l5f-Q1-qdt"; */
+"l5f-Q1-qdt.text" = "inconnu";
+
+/* Class = "UILabel"; text = "unknown"; ObjectID = "qTS-JE-SyH"; */
+"qTS-JE-SyH.text" = "inconnu";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "sC2-LA-dl9"; */
+"sC2-LA-dl9.text" = "Email:";
+
+/* Class = "UILabel"; text = "Phone:"; ObjectID = "vhd-ep-zw3"; */
+"vhd-ep-zw3.text" = "Téléphone:";
+
+/* Class = "UILabel"; text = "Wallet:"; ObjectID = "wtX-Zc-ihg"; */
+"wtX-Zc-ihg.text" = "Portefeuille:";
+

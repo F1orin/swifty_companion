@@ -56,7 +56,7 @@ class ProfileViewController: UIViewController {
             // set up level
             let level = String(Int(user!.level))
             let percent = String(Int(round(user!.level % 1 * 100)))
-            levelLabel.text = "\(level) - \(percent)%" // todo fix this
+            levelLabel.text = "\(level) - \(percent)%"
             progressView.progress = user!.level % 1
             
             // fetch image

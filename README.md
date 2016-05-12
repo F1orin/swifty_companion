@@ -7,14 +7,19 @@ iOS application for viewing École 42 user profiles
 
 ### Features
 * Auto Layout
+* OAuth 2.0
+* Fetching data from RESTful API
 * Scroll View
 * Tab Bar Interface
 * Table Views with custom cells
+* Alert Views
+* Different layout for iPhones in landscape
 * English and French localization
 * Created in Xcode 7.3 with Swift 2
+* Cocoapods: SwiftyJSON, OAuthSwift, AlamofireImage
 
 ### Screenshots
-![Search Screen](/screenshots/screen1.png)
-![Profile Screen](/screenshots/screen2.png)
-![Skills Screen](/screenshots/screen3.png)
-![Projects Screen](/screenshots/screen3.png)
+![Search Screen](/screenshots/screenshot_1.png)
+![Profile Screen](/screenshots/screenshot_2.png)
+![Skills Screen](/screenshots/screenshot_3.png)
+![Projects Screen](/screenshots/screenshot_4.png)

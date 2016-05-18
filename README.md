@@ -19,10 +19,8 @@ iOS application for viewing École 42 user profiles
 * Cocoapods: SwiftyJSON, OAuthSwift, AlamofireImage
 
 ### Screenshots
-![Search Screen](/screenshots/screenshot_1.png)
+![Search Screen](/screenshots/screenshot_1.png) ![Profile Screen](/screenshots/screenshot_2.png)
 
-![Profile Screen](/screenshots/screenshot_2.png)
+![Skills Screen](/screenshots/screenshot_3.png) ![Projects Screen](/screenshots/screenshot_4.png)
 
-![Skills Screen](/screenshots/screenshot_3.png)
 
-![Projects Screen](/screenshots/screenshot_4.png)
